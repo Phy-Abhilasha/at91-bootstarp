@@ -1,0 +1,1595 @@
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 ./build/crt0_gnu.o
+ .bss           0x0000000000000000        0x0 ./build/crt0_gnu.o
+ .text          0x0000000000000000        0x0 ./build/main.o
+ .data          0x0000000000000000        0x0 ./build/main.o
+ .bss           0x0000000000000000        0x0 ./build/main.o
+ .text          0x0000000000000000        0x0 ./build/device/sama5d2/sama5d2.o
+ .data          0x0000000000000000        0x0 ./build/device/sama5d2/sama5d2.o
+ .bss           0x0000000000000000        0x0 ./build/device/sama5d2/sama5d2.o
+ .text.at91_init_can_message_ram
+                0x0000000000000000       0x18 ./build/device/sama5d2/sama5d2.o
+ .text          0x0000000000000000        0x0 ./build/lib/string.o
+ .data          0x0000000000000000        0x0 ./build/lib/string.o
+ .bss           0x0000000000000000        0x0 ./build/lib/string.o
+ .text.memcmp   0x0000000000000000       0x2c ./build/lib/string.o
+ .text.strlen   0x0000000000000000       0x1c ./build/lib/string.o
+ .text.strcat   0x0000000000000000       0x30 ./build/lib/string.o
+ .text.strcmp   0x0000000000000000       0x34 ./build/lib/string.o
+ .text.strncmp  0x0000000000000000       0x48 ./build/lib/string.o
+ .text.strchr   0x0000000000000000       0x2c ./build/lib/string.o
+ .text.strstr   0x0000000000000000       0x4c ./build/lib/string.o
+ .text.memchr   0x0000000000000000       0x30 ./build/lib/string.o
+ .text.memmove  0x0000000000000000       0x40 ./build/lib/string.o
+ .text          0x0000000000000000        0x0 ./build/lib/eabi_utils.o
+ .data          0x0000000000000000        0x0 ./build/lib/eabi_utils.o
+ .bss           0x0000000000000000        0x0 ./build/lib/eabi_utils.o
+ .text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x4 ./build/lib/eabi_utils.o
+ .text.__aeabi_unwind_cpp_pr1
+                0x0000000000000000        0x4 ./build/lib/eabi_utils.o
+ .debug_info    0x0000000000000000       0x46 ./build/lib/eabi_utils.o
+ .debug_abbrev  0x0000000000000000       0x48 ./build/lib/eabi_utils.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./build/lib/eabi_utils.o
+ .debug_ranges  0x0000000000000000       0x10 ./build/lib/eabi_utils.o
+ .debug_line    0x0000000000000000       0x41 ./build/lib/eabi_utils.o
+ .debug_str     0x0000000000000000      0x177 ./build/lib/eabi_utils.o
+ .comment       0x0000000000000000       0x2c ./build/lib/eabi_utils.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/lib/eabi_utils.o
+ .debug_frame   0x0000000000000000       0x30 ./build/lib/eabi_utils.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./build/lib/eabi_utils.o
+ .text          0x0000000000000000        0x0 ./build/lib/div.o
+ .data          0x0000000000000000        0x0 ./build/lib/div.o
+ .bss           0x0000000000000000        0x0 ./build/lib/div.o
+ .text.mod      0x0000000000000000       0x30 ./build/lib/div.o
+ .text          0x0000000000000000        0x0 ./build/lib/consttime_memequal.o
+ .data          0x0000000000000000        0x0 ./build/lib/consttime_memequal.o
+ .bss           0x0000000000000000        0x0 ./build/lib/consttime_memequal.o
+ .text.consttime_memequal
+                0x0000000000000000       0x44 ./build/lib/consttime_memequal.o
+ .debug_info    0x0000000000000000      0x119 ./build/lib/consttime_memequal.o
+ .debug_abbrev  0x0000000000000000       0x94 ./build/lib/consttime_memequal.o
+ .debug_loc     0x0000000000000000      0x162 ./build/lib/consttime_memequal.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./build/lib/consttime_memequal.o
+ .debug_ranges  0x0000000000000000       0x10 ./build/lib/consttime_memequal.o
+ .debug_line    0x0000000000000000       0xa4 ./build/lib/consttime_memequal.o
+ .debug_str     0x0000000000000000      0x1ef ./build/lib/consttime_memequal.o
+ .comment       0x0000000000000000       0x2c ./build/lib/consttime_memequal.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/lib/consttime_memequal.o
+ .debug_frame   0x0000000000000000       0x28 ./build/lib/consttime_memequal.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./build/lib/consttime_memequal.o
+ .text          0x0000000000000000        0x0 ./build/driver/debug.o
+ .data          0x0000000000000000        0x0 ./build/driver/debug.o
+ .text.dbg_hexdump_line
+                0x0000000000000000       0x84 ./build/driver/debug.o
+ .text.dbg_int_hexdump_line
+                0x0000000000000000       0x38 ./build/driver/debug.o
+ .text.dbg_hexdump
+                0x0000000000000000       0xac ./build/driver/debug.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_slowclk.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_slowclk.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_slowclk.o
+ .text.slowclk_switch_rc32
+                0x0000000000000000       0x28 ./build/driver/at91_slowclk.o
+ .text          0x0000000000000000        0x0 ./build/driver/common.o
+ .data          0x0000000000000000        0x0 ./build/driver/common.o
+ .text.get_image_load_func
+                0x0000000000000000        0xc ./build/driver/common.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_pio.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_pio.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_pio.o
+ .text.pio_set_value
+                0x0000000000000000       0x3c ./build/driver/at91_pio.o
+ .text.pio_get_value
+                0x0000000000000000       0x44 ./build/driver/at91_pio.o
+ .text          0x0000000000000000        0x0 ./build/driver/pmc/clk-common.o
+ .data          0x0000000000000000        0x0 ./build/driver/pmc/clk-common.o
+ .bss           0x0000000000000000        0x0 ./build/driver/pmc/clk-common.o
+ .text.pmc_cfg_pck
+                0x0000000000000000       0x44 ./build/driver/pmc/clk-common.o
+ .text.pmc_disable_system_clock
+                0x0000000000000000       0x10 ./build/driver/pmc/clk-common.o
+ .text.pmc_set_smd_clock_divider
+                0x0000000000000000       0x24 ./build/driver/pmc/clk-common.o
+ .text.at91_get_ahb_clock
+                0x0000000000000000       0x28 ./build/driver/pmc/clk-common.o
+ .text          0x0000000000000000        0x0 ./build/driver/pmc/periph-clk-sam9x5.o
+ .data          0x0000000000000000        0x0 ./build/driver/pmc/periph-clk-sam9x5.o
+ .bss           0x0000000000000000        0x0 ./build/driver/pmc/periph-clk-sam9x5.o
+ .text.pmc_periph_clock_get_rate
+                0x0000000000000000        0x4 ./build/driver/pmc/periph-clk-sam9x5.o
+ .text          0x0000000000000000        0x0 ./build/driver/pmc/generic-clk.o
+ .data          0x0000000000000000        0x0 ./build/driver/pmc/generic-clk.o
+ .bss           0x0000000000000000        0x0 ./build/driver/pmc/generic-clk.o
+ .text          0x0000000000000000        0x0 ./build/driver/pmc/utmi-clk.o
+ .data          0x0000000000000000        0x0 ./build/driver/pmc/utmi-clk.o
+ .bss           0x0000000000000000        0x0 ./build/driver/pmc/utmi-clk.o
+ .text          0x0000000000000000        0x0 ./build/driver/pmc/pll-clk.o
+ .data          0x0000000000000000        0x0 ./build/driver/pmc/pll-clk.o
+ .bss           0x0000000000000000        0x0 ./build/driver/pmc/pll-clk.o
+ .text          0x0000000000000000        0x0 ./build/driver/pmc/master-clk.o
+ .data          0x0000000000000000        0x0 ./build/driver/pmc/master-clk.o
+ .bss           0x0000000000000000        0x0 ./build/driver/pmc/master-clk.o
+ .text.pmc_mck_get_rate
+                0x0000000000000000        0xc ./build/driver/pmc/master-clk.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_pit.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_pit.o
+ .text.mdelay   0x0000000000000000       0x4c ./build/driver/at91_pit.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_wdt.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_wdt.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_wdt.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_usart.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_usart.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_usart.o
+ .text.usart_getc
+                0x0000000000000000       0x28 ./build/driver/at91_usart.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_rstc.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_rstc.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_rstc.o
+ .text.rstc_external_reset
+                0x0000000000000000       0x28 ./build/driver/at91_rstc.o
+ .text.cpu_reset
+                0x0000000000000000       0x18 ./build/driver/at91_rstc.o
+ .text.rstc_ddr_rst_deassert
+                0x0000000000000000       0x18 ./build/driver/at91_rstc.o
+ .text.rstc_ddr_phy_rst_deassert
+                0x0000000000000000       0x18 ./build/driver/at91_rstc.o
+ .text.rstc_ddr_assert
+                0x0000000000000000       0x18 ./build/driver/at91_rstc.o
+ .debug_info    0x0000000000000000      0x368 ./build/driver/at91_rstc.o
+ .debug_abbrev  0x0000000000000000      0x139 ./build/driver/at91_rstc.o
+ .debug_loc     0x0000000000000000      0x1ae ./build/driver/at91_rstc.o
+ .debug_aranges
+                0x0000000000000000       0x40 ./build/driver/at91_rstc.o
+ .debug_ranges  0x0000000000000000       0x30 ./build/driver/at91_rstc.o
+ .debug_line    0x0000000000000000      0x189 ./build/driver/at91_rstc.o
+ .debug_str     0x0000000000000000      0x22b ./build/driver/at91_rstc.o
+ .comment       0x0000000000000000       0x2c ./build/driver/at91_rstc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_rstc.o
+ .debug_frame   0x0000000000000000       0x60 ./build/driver/at91_rstc.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./build/driver/at91_rstc.o
+ .text          0x0000000000000000        0x0 ./build/driver/shdwc.o
+ .data          0x0000000000000000        0x0 ./build/driver/shdwc.o
+ .bss           0x0000000000000000        0x0 ./build/driver/shdwc.o
+ .text.shdwc_disable_lpm
+                0x0000000000000000        0x4 ./build/driver/shdwc.o
+ .debug_info    0x0000000000000000       0x38 ./build/driver/shdwc.o
+ .debug_abbrev  0x0000000000000000       0x2e ./build/driver/shdwc.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./build/driver/shdwc.o
+ .debug_ranges  0x0000000000000000       0x10 ./build/driver/shdwc.o
+ .debug_line    0x0000000000000000       0x41 ./build/driver/shdwc.o
+ .debug_str     0x0000000000000000      0x159 ./build/driver/shdwc.o
+ .comment       0x0000000000000000       0x2c ./build/driver/shdwc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/shdwc.o
+ .debug_frame   0x0000000000000000       0x20 ./build/driver/shdwc.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./build/driver/shdwc.o
+ .text          0x0000000000000000        0x0 ./build/driver/lp310_l2cc.o
+ .data          0x0000000000000000        0x0 ./build/driver/lp310_l2cc.o
+ .bss           0x0000000000000000        0x0 ./build/driver/lp310_l2cc.o
+ .text.l2cache_enable
+                0x0000000000000000       0x10 ./build/driver/lp310_l2cc.o
+ .text          0x0000000000000000        0x0 ./build/driver/ddramc.o
+ .data          0x0000000000000000        0x0 ./build/driver/ddramc.o
+ .bss           0x0000000000000000        0x0 ./build/driver/ddramc.o
+ .text.get_ddram_size
+                0x0000000000000000        0x8 ./build/driver/ddramc.o
+ .text.ddramc_dump_regs
+                0x0000000000000000        0x4 ./build/driver/ddramc.o
+ .text          0x0000000000000000        0x0 ./build/driver/sdhc.o
+ .text          0x0000000000000000        0x0 ./build/driver/mci_media.o
+ .data          0x0000000000000000        0x0 ./build/driver/mci_media.o
+ .text          0x0000000000000000        0x0 ./build/driver/sdcard.o
+ .data          0x0000000000000000        0x0 ./build/driver/sdcard.o
+ .text          0x0000000000000000        0x0 ./build/driver/board_hw_init.o
+ .data          0x0000000000000000        0x0 ./build/driver/board_hw_init.o
+ .bss           0x0000000000000000        0x0 ./build/driver/board_hw_init.o
+ .text          0x0000000000000000        0x0 ./build/driver/led.o
+ .data          0x0000000000000000        0x0 ./build/driver/led.o
+ .bss           0x0000000000000000        0x0 ./build/driver/led.o
+ .text          0x0000000000000000        0x0 ./build/driver/matrix.o
+ .data          0x0000000000000000        0x0 ./build/driver/matrix.o
+ .bss           0x0000000000000000        0x0 ./build/driver/matrix.o
+ .text.matrix_write_protect_enable
+                0x0000000000000000       0x10 ./build/driver/matrix.o
+ .text.matrix_read_slave_security
+                0x0000000000000000        0x4 ./build/driver/matrix.o
+ .text.matrix_read_peripheral_security
+                0x0000000000000000        0x4 ./build/driver/matrix.o
+ .text.matrix_configure_peri_security
+                0x0000000000000000        0x8 ./build/driver/matrix.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_aicredir.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_aicredir.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_aicredir.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_flexcom.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_flexcom.o
+ .bss           0x0000000000000000        0x4 ./build/driver/at91_flexcom.o
+ .text.flexcoms_init
+                0x0000000000000000       0x10 ./build/driver/at91_flexcom.o
+ .text.flexcom_get_base
+                0x0000000000000000       0x20 ./build/driver/at91_flexcom.o
+ .text.flexcom_get_regmap
+                0x0000000000000000       0x20 ./build/driver/at91_flexcom.o
+ .text.flexcom_set_mode
+                0x0000000000000000       0x34 ./build/driver/at91_flexcom.o
+ .text.flexcom_init
+                0x0000000000000000       0x74 ./build/driver/at91_flexcom.o
+ .debug_info    0x0000000000000000      0x1fa ./build/driver/at91_flexcom.o
+ .debug_abbrev  0x0000000000000000      0x16f ./build/driver/at91_flexcom.o
+ .debug_loc     0x0000000000000000       0xe0 ./build/driver/at91_flexcom.o
+ .debug_aranges
+                0x0000000000000000       0x40 ./build/driver/at91_flexcom.o
+ .debug_ranges  0x0000000000000000       0x30 ./build/driver/at91_flexcom.o
+ .debug_line    0x0000000000000000      0x15d ./build/driver/at91_flexcom.o
+ .debug_str     0x0000000000000000      0x200 ./build/driver/at91_flexcom.o
+ .comment       0x0000000000000000       0x2c ./build/driver/at91_flexcom.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_flexcom.o
+ .debug_frame   0x0000000000000000       0x74 ./build/driver/at91_flexcom.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./build/driver/at91_flexcom.o
+ .text          0x0000000000000000        0x0 ./build/driver/sfrbu.o
+ .data          0x0000000000000000        0x0 ./build/driver/sfrbu.o
+ .bss           0x0000000000000000        0x0 ./build/driver/sfrbu.o
+ .text.sfrbu_ddr_is_powered
+                0x0000000000000000       0x18 ./build/driver/sfrbu.o
+ .text.sfrbu_set_ddr_power_mode
+                0x0000000000000000       0x18 ./build/driver/sfrbu.o
+ .text          0x0000000000000000        0x0 ./build/driver/at91_xdmac.o
+ .data          0x0000000000000000        0x0 ./build/driver/at91_xdmac.o
+ .bss           0x0000000000000000        0x0 ./build/driver/at91_xdmac.o
+ .text.xdmac_configure_transfer
+                0x0000000000000000       0xf4 ./build/driver/at91_xdmac.o
+ .text.xdmac_transfer_wait_for_completion
+                0x0000000000000000       0x58 ./build/driver/at91_xdmac.o
+ .text.xdmac_transfer_start
+                0x0000000000000000       0x74 ./build/driver/at91_xdmac.o
+ .text.xdmac_transfer_stop
+                0x0000000000000000       0x20 ./build/driver/at91_xdmac.o
+ .debug_info    0x0000000000000000      0x51a ./build/driver/at91_xdmac.o
+ .debug_abbrev  0x0000000000000000      0x1c5 ./build/driver/at91_xdmac.o
+ .debug_loc     0x0000000000000000      0x79d ./build/driver/at91_xdmac.o
+ .debug_aranges
+                0x0000000000000000       0x38 ./build/driver/at91_xdmac.o
+ .debug_ranges  0x0000000000000000      0x100 ./build/driver/at91_xdmac.o
+ .debug_line    0x0000000000000000      0x2db ./build/driver/at91_xdmac.o
+ .debug_str     0x0000000000000000      0x2c0 ./build/driver/at91_xdmac.o
+ .comment       0x0000000000000000       0x2c ./build/driver/at91_xdmac.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_xdmac.o
+ .debug_frame   0x0000000000000000       0x60 ./build/driver/at91_xdmac.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./build/driver/at91_xdmac.o
+ .text          0x0000000000000000        0x0 ./build/fs/src/ff.o
+ .data          0x0000000000000000        0x0 ./build/fs/src/ff.o
+ .text.gen_numname
+                0x0000000000000000       0xe8 ./build/fs/src/ff.o
+ .text          0x0000000000000000        0x0 ./build/fs/src/diskio.o
+ .bss           0x0000000000000000        0x0 ./build/fs/src/diskio.o
+ .text.get_fattime
+                0x0000000000000000        0xc ./build/fs/src/diskio.o
+ .text          0x0000000000000000        0x0 ./build/fs/src/option/ccsbcs.o
+ .data          0x0000000000000000        0x0 ./build/fs/src/option/ccsbcs.o
+ .bss           0x0000000000000000        0x0 ./build/fs/src/option/ccsbcs.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                . = ALIGN (0x4)
+
+.text           0x0000000000200000      0xd94
+                0x0000000000200000                _stext = .
+ *(.text)
+ .text          0x0000000000200000      0x158 ./build/crt0_gnu.o
+                0x0000000000200000                reset
+                0x00000000002000cc                set_cp15
+                0x00000000002000d4                get_cp15
+                0x00000000002000dc                disable_irq
+                0x00000000002000ec                get_cpsr
+                0x00000000002000f4                set_cpsr
+                0x00000000002000fc                disable_icache
+                0x0000000000200110                disable_dcache
+                0x0000000000200124                flush_idcache
+ *(.rodata)
+ .rodata        0x0000000000200158       0xe0 ./build/device/sama5d2/sama5d2.o
+                0x0000000000200234                usart_base
+ .rodata        0x0000000000200238       0x18 ./build/driver/pmc/generic-clk.o
+ .rodata        0x0000000000200250        0x8 ./build/driver/mci_media.o
+ .rodata        0x0000000000200258       0x8d ./build/fs/src/ff.o
+ *fill*         0x00000000002002e5        0x1 
+ .rodata        0x00000000002002e6      0x4c0 ./build/fs/src/option/ccsbcs.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00000000002007a6       0x38 ./build/main.o
+ .rodata.str1.1
+                0x00000000002007de       0x9e ./build/device/sama5d2/sama5d2.o
+ .rodata.str1.1
+                0x000000000020087c       0x23 ./build/driver/debug.o
+                                         0x25 (size before relaxing)
+ .rodata.str1.1
+                0x000000000020089f       0x53 ./build/driver/common.o
+ .rodata.str1.1
+                0x00000000002008f2       0x43 ./build/driver/pmc/generic-clk.o
+ .rodata.str1.1
+                0x0000000000200935      0x10a ./build/driver/sdhc.o
+ .rodata.str1.1
+                0x0000000000200a3f      0x294 ./build/driver/mci_media.o
+ .rodata.str1.1
+                0x0000000000200cd3       0xae ./build/driver/sdcard.o
+ .rodata.str1.1
+                0x0000000000200d81       0x10 ./build/fs/src/ff.o
+                0x0000000000200d94                . = ALIGN (0x4)
+ *fill*         0x0000000000200d91        0x3 
+ *(.glue_7)
+ .glue_7        0x0000000000200d94        0x0 linker stubs
+                0x0000000000200d94                . = ALIGN (0x4)
+ *(.eh_frame)
+                0x0000000000200d94                . = ALIGN (0x4)
+                0x0000000000200d94                _etext = .
+
+.glue_7t        0x0000000000200d94        0x0
+ .glue_7t       0x0000000000200d94        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000200d94        0x0
+ .vfp11_veneer  0x0000000000200d94        0x0 linker stubs
+
+.v4_bx          0x0000000000200d94        0x0
+ .v4_bx         0x0000000000200d94        0x0 linker stubs
+
+.iplt           0x0000000000200d94        0x0
+ .iplt          0x0000000000200d94        0x0 ./build/crt0_gnu.o
+
+.text.startup.main
+                0x0000000000200d94       0x4c
+ .text.startup.main
+                0x0000000000200d94       0x4c ./build/main.o
+                0x0000000000200d94                main
+
+.text.hw_init   0x0000000000200de0      0x194
+ .text.hw_init  0x0000000000200de0      0x194 ./build/device/sama5d2/sama5d2.o
+                0x0000000000200de0                hw_init
+
+.text.at91_sdhc_hw_init
+                0x0000000000200f74       0x78
+ .text.at91_sdhc_hw_init
+                0x0000000000200f74       0x78 ./build/device/sama5d2/sama5d2.o
+                0x0000000000200f74                at91_sdhc_hw_init
+
+.text.memcpy    0x0000000000200fec       0x78
+ .text.memcpy   0x0000000000200fec       0x78 ./build/lib/string.o
+                0x0000000000200fec                memcpy
+
+.text.memset    0x0000000000201064       0x18
+ .text.memset   0x0000000000201064       0x18 ./build/lib/string.o
+                0x0000000000201064                memset
+
+.text.strcpy    0x000000000020107c       0x18
+ .text.strcpy   0x000000000020107c       0x18 ./build/lib/string.o
+                0x000000000020107c                strcpy
+
+.text.division  0x0000000000201094       0xb0
+ .text.division
+                0x0000000000201094       0xb0 ./build/lib/div.o
+                0x0000000000201094                division
+
+.text.div       0x0000000000201144       0x30
+ .text.div      0x0000000000201144       0x30 ./build/lib/div.o
+                0x0000000000201144                div
+
+.text.fill_hex_int
+                0x0000000000201174       0x44
+ .text.fill_hex_int
+                0x0000000000201174       0x44 ./build/driver/debug.o
+
+.text.dbg_printf
+                0x00000000002011b8      0x200
+ .text.dbg_printf
+                0x00000000002011b8      0x200 ./build/driver/debug.o
+                0x00000000002011b8                dbg_printf
+
+.text.slowclk_enable_osc32
+                0x00000000002013b8       0x10
+ .text.slowclk_enable_osc32
+                0x00000000002013b8       0x10 ./build/driver/at91_slowclk.o
+                0x00000000002013b8                slowclk_enable_osc32
+
+.text.slowclk_switch_osc32
+                0x00000000002013c8       0x44
+ .text.slowclk_switch_osc32
+                0x00000000002013c8       0x44 ./build/driver/at91_slowclk.o
+                0x00000000002013c8                slowclk_switch_osc32
+
+.text.init_load_image
+                0x000000000020140c       0x58
+ .text.init_load_image
+                0x000000000020140c       0x58 ./build/driver/common.o
+                0x000000000020140c                init_load_image
+
+.text.load_image_done
+                0x0000000000201464       0x5c
+ .text.load_image_done
+                0x0000000000201464       0x5c ./build/driver/common.o
+                0x0000000000201464                load_image_done
+
+.text.pio_base_addr
+                0x00000000002014c0       0x60
+ .text.pio_base_addr
+                0x00000000002014c0       0x60 ./build/driver/at91_pio.o
+
+.text.write_pio
+                0x0000000000201520       0x14
+ .text.write_pio
+                0x0000000000201520       0x14 ./build/driver/at91_pio.o
+
+.text.pio4_set_periph
+                0x0000000000201534       0x64
+ .text.pio4_set_periph
+                0x0000000000201534       0x64 ./build/driver/at91_pio.o
+
+.text.pio_set_gpio_input
+                0x0000000000201598       0x74
+ .text.pio_set_gpio_input
+                0x0000000000201598       0x74 ./build/driver/at91_pio.o
+                0x0000000000201598                pio_set_gpio_input
+
+.text.pio_set_gpio_output
+                0x000000000020160c       0x68
+ .text.pio_set_gpio_output
+                0x000000000020160c       0x68 ./build/driver/at91_pio.o
+                0x000000000020160c                pio_set_gpio_output
+
+.text.pio_configure
+                0x0000000000201674      0x1e8
+ .text.pio_configure
+                0x0000000000201674      0x1e8 ./build/driver/at91_pio.o
+                0x0000000000201674                pio_configure
+
+.text.lowlevel_clock_init
+                0x000000000020185c       0xa8
+ .text.lowlevel_clock_init
+                0x000000000020185c       0xa8 ./build/driver/pmc/clk-common.o
+                0x000000000020185c                lowlevel_clock_init
+
+.text.pmc_enable_system_clock
+                0x0000000000201904       0x10
+ .text.pmc_enable_system_clock
+                0x0000000000201904       0x10 ./build/driver/pmc/clk-common.o
+                0x0000000000201904                pmc_enable_system_clock
+
+.text.pmc_mainck_get_rate
+                0x0000000000201914       0x28
+ .text.pmc_mainck_get_rate
+                0x0000000000201914       0x28 ./build/driver/pmc/clk-common.o
+                0x0000000000201914                pmc_mainck_get_rate
+
+.text.pmc_enable_periph_clock
+                0x000000000020193c       0x3c
+ .text.pmc_enable_periph_clock
+                0x000000000020193c       0x3c ./build/driver/pmc/periph-clk-sam9x5.o
+                0x000000000020193c                pmc_enable_periph_clock
+
+.text.pmc_disable_periph_clock
+                0x0000000000201978       0x28
+ .text.pmc_disable_periph_clock
+                0x0000000000201978       0x28 ./build/driver/pmc/periph-clk-sam9x5.o
+                0x0000000000201978                pmc_disable_periph_clock
+
+.text.pmc_enable_generic_clock
+                0x00000000002019a0       0xcc
+ .text.pmc_enable_generic_clock
+                0x00000000002019a0       0xcc ./build/driver/pmc/generic-clk.o
+                0x00000000002019a0                pmc_enable_generic_clock
+
+.text.pmc_get_generic_clock
+                0x0000000000201a6c       0x74
+ .text.pmc_get_generic_clock
+                0x0000000000201a6c       0x74 ./build/driver/pmc/generic-clk.o
+                0x0000000000201a6c                pmc_get_generic_clock
+
+.text.pmc_uckr_clk
+                0x0000000000201ae0       0x70
+ .text.pmc_uckr_clk
+                0x0000000000201ae0       0x70 ./build/driver/pmc/utmi-clk.o
+                0x0000000000201ae0                pmc_uckr_clk
+
+.text.pmc_init_pll
+                0x0000000000201b50       0x10
+ .text.pmc_init_pll
+                0x0000000000201b50       0x10 ./build/driver/pmc/pll-clk.o
+                0x0000000000201b50                pmc_init_pll
+
+.text.pmc_cfg_plla
+                0x0000000000201b60       0x28
+ .text.pmc_cfg_plla
+                0x0000000000201b60       0x28 ./build/driver/pmc/pll-clk.o
+                0x0000000000201b60                pmc_cfg_plla
+
+.text.pmc_get_pll_freq
+                0x0000000000201b88       0x74
+ .text.pmc_get_pll_freq
+                0x0000000000201b88       0x74 ./build/driver/pmc/pll-clk.o
+                0x0000000000201b88                pmc_get_pll_freq
+
+.text.pmc_mck_cfg_set
+                0x0000000000201bfc       0xf0
+ .text.pmc_mck_cfg_set
+                0x0000000000201bfc       0xf0 ./build/driver/pmc/master-clk.o
+                0x0000000000201bfc                pmc_mck_cfg_set
+
+.text.pmc_mck_check_h32mxdiv
+                0x0000000000201cec       0x14
+ .text.pmc_mck_check_h32mxdiv
+                0x0000000000201cec       0x14 ./build/driver/pmc/master-clk.o
+                0x0000000000201cec                pmc_mck_check_h32mxdiv
+
+.text.timer_init
+                0x0000000000201d00       0x2c
+ .text.timer_init
+                0x0000000000201d00       0x2c ./build/driver/at91_pit.o
+                0x0000000000201d00                timer_init
+
+.text.udelay    0x0000000000201d2c       0x4c
+ .text.udelay   0x0000000000201d2c       0x4c ./build/driver/at91_pit.o
+                0x0000000000201d2c                udelay
+
+.text.start_interval_timer
+                0x0000000000201d78       0x20
+ .text.start_interval_timer
+                0x0000000000201d78       0x20 ./build/driver/at91_pit.o
+                0x0000000000201d78                start_interval_timer
+
+.text.wait_interval_timer
+                0x0000000000201d98       0x58
+ .text.wait_interval_timer
+                0x0000000000201d98       0x58 ./build/driver/at91_pit.o
+                0x0000000000201d98                wait_interval_timer
+
+.text.at91_disable_wdt
+                0x0000000000201df0       0x18
+ .text.at91_disable_wdt
+                0x0000000000201df0       0x18 ./build/driver/at91_wdt.o
+                0x0000000000201df0                at91_disable_wdt
+
+.text.usart_putc
+                0x0000000000201e08       0x24
+ .text.usart_putc
+                0x0000000000201e08       0x24 ./build/driver/at91_usart.o
+
+.text.usart_init
+                0x0000000000201e2c       0x34
+ .text.usart_init
+                0x0000000000201e2c       0x34 ./build/driver/at91_usart.o
+                0x0000000000201e2c                usart_init
+
+.text.usart_puts
+                0x0000000000201e60       0x30
+ .text.usart_puts
+                0x0000000000201e60       0x30 ./build/driver/at91_usart.o
+                0x0000000000201e60                usart_puts
+
+.text.l2cache_prepare
+                0x0000000000201e90       0x5c
+ .text.l2cache_prepare
+                0x0000000000201e90       0x5c ./build/driver/lp310_l2cc.o
+                0x0000000000201e90                l2cache_prepare
+
+.text.ddr2_sdram_initialize
+                0x0000000000201eec      0x1c8
+ .text.ddr2_sdram_initialize
+                0x0000000000201eec      0x1c8 ./build/driver/ddramc.o
+                0x0000000000201eec                ddr2_sdram_initialize
+
+.text.ddram_init
+                0x00000000002020b4       0x98
+ .text.ddram_init
+                0x00000000002020b4       0x98 ./build/driver/ddramc.o
+                0x00000000002020b4                ddram_init
+
+.text.sdhc_set_bus_width
+                0x000000000020214c       0x68
+ .text.sdhc_set_bus_width
+                0x000000000020214c       0x68 ./build/driver/sdhc.o
+
+.text.sdhc_set_ddr
+                0x00000000002021b4       0x34
+ .text.sdhc_set_ddr
+                0x00000000002021b4       0x34 ./build/driver/sdhc.o
+
+.text.sdhc_set_clock
+                0x00000000002021e8      0x174
+ .text.sdhc_set_clock
+                0x00000000002021e8      0x174 ./build/driver/sdhc.o
+
+.text.sdhc_init
+                0x000000000020235c      0x188
+ .text.sdhc_init
+                0x000000000020235c      0x188 ./build/driver/sdhc.o
+
+.text.sdhc_send_command
+                0x00000000002024e4      0x474
+ .text.sdhc_send_command
+                0x00000000002024e4      0x474 ./build/driver/sdhc.o
+
+.text.sdcard_register_sdhc
+                0x0000000000202958       0x20
+ .text.sdcard_register_sdhc
+                0x0000000000202958       0x20 ./build/driver/sdhc.o
+                0x0000000000202958                sdcard_register_sdhc
+
+.text.swap_uint32
+                0x0000000000202978       0x50
+ .text.swap_uint32
+                0x0000000000202978       0x50 ./build/driver/mci_media.o
+
+.text.sd_cmd_set_blocklen.constprop.0
+                0x00000000002029c8       0x34
+ .text.sd_cmd_set_blocklen.constprop.0
+                0x00000000002029c8       0x34 ./build/driver/mci_media.o
+
+.text.mmc_cmd_send_ext_csd.constprop.0
+                0x00000000002029fc       0x58
+ .text.mmc_cmd_send_ext_csd.constprop.0
+                0x00000000002029fc       0x58 ./build/driver/mci_media.o
+
+.text.mmc_card_identify.constprop.0
+                0x0000000000202a54      0x128
+ .text.mmc_card_identify.constprop.0
+                0x0000000000202a54      0x128 ./build/driver/mci_media.o
+
+.text.mmc_cmd_send_op_cond.constprop.0
+                0x0000000000202b7c       0x44
+ .text.mmc_cmd_send_op_cond.constprop.0
+                0x0000000000202b7c       0x44 ./build/driver/mci_media.o
+
+.text.sd_cmd_select_card.constprop.0
+                0x0000000000202bc0       0x40
+ .text.sd_cmd_select_card.constprop.0
+                0x0000000000202bc0       0x40 ./build/driver/mci_media.o
+
+.text.sd_cmd_send_status.constprop.0
+                0x0000000000202c00       0x84
+ .text.sd_cmd_send_status.constprop.0
+                0x0000000000202c00       0x84 ./build/driver/mci_media.o
+
+.text.mmc_bus_width_select.constprop.0
+                0x0000000000202c84       0xec
+ .text.mmc_bus_width_select.constprop.0
+                0x0000000000202c84       0xec ./build/driver/mci_media.o
+
+.text.sd_cmd_send_app_cmd.constprop.0
+                0x0000000000202d70       0x40
+ .text.sd_cmd_send_app_cmd.constprop.0
+                0x0000000000202d70       0x40 ./build/driver/mci_media.o
+
+.text.sd_check_operational_condition.constprop.0
+                0x0000000000202db0       0xa0
+ .text.sd_check_operational_condition.constprop.0
+                0x0000000000202db0       0xa0 ./build/driver/mci_media.o
+
+.text.mmc_switch_high_speed.constprop.0
+                0x0000000000202e50       0x7c
+ .text.mmc_switch_high_speed.constprop.0
+                0x0000000000202e50       0x7c ./build/driver/mci_media.o
+
+.text.sdcard_initialize
+                0x0000000000202ecc      0x9c0
+ .text.sdcard_initialize
+                0x0000000000202ecc      0x9c0 ./build/driver/mci_media.o
+                0x0000000000202ecc                sdcard_initialize
+
+.text.sdcard_block_read
+                0x000000000020388c      0x170
+ .text.sdcard_block_read
+                0x000000000020388c      0x170 ./build/driver/mci_media.o
+                0x000000000020388c                sdcard_block_read
+
+.text.load_sdcard
+                0x00000000002039fc      0x124
+ .text.load_sdcard
+                0x00000000002039fc      0x124 ./build/driver/sdcard.o
+                0x00000000002039fc                load_sdcard
+
+.text.sdmmc_cal_setup
+                0x0000000000203b20       0x6c
+ .text.sdmmc_cal_setup
+                0x0000000000203b20       0x6c ./build/driver/board_hw_init.o
+                0x0000000000203b20                sdmmc_cal_setup
+
+.text.at91_leds_init
+                0x0000000000203b8c       0x2c
+ .text.at91_leds_init
+                0x0000000000203b8c       0x2c ./build/driver/led.o
+                0x0000000000203b8c                at91_leds_init
+
+.text.matrix_write_protect_disable
+                0x0000000000203bb8       0x10
+ .text.matrix_write_protect_disable
+                0x0000000000203bb8       0x10 ./build/driver/matrix.o
+                0x0000000000203bb8                matrix_write_protect_disable
+
+.text.matrix_configure_slave_security
+                0x0000000000203bc8       0x28
+ .text.matrix_configure_slave_security
+                0x0000000000203bc8       0x28 ./build/driver/matrix.o
+                0x0000000000203bc8                matrix_configure_slave_security
+
+.text.redirect_interrupts_to_nsaic
+                0x0000000000203bf0       0x34
+ .text.redirect_interrupts_to_nsaic
+                0x0000000000203bf0       0x34 ./build/driver/at91_aicredir.o
+                0x0000000000203bf0                redirect_interrupts_to_nsaic
+
+.text.sfrbu_select_ba_power_source
+                0x0000000000203c24       0x5c
+ .text.sfrbu_select_ba_power_source
+                0x0000000000203c24       0x5c ./build/driver/sfrbu.o
+                0x0000000000203c24                sfrbu_select_ba_power_source
+
+.text.move_window
+                0x0000000000203c80       0x48
+ .text.move_window
+                0x0000000000203c80       0x48 ./build/fs/src/ff.o
+
+.text.check_fs  0x0000000000203cc8       0x88
+ .text.check_fs
+                0x0000000000203cc8       0x88 ./build/fs/src/ff.o
+
+.text.clust2sect
+                0x0000000000203d50       0x24
+ .text.clust2sect
+                0x0000000000203d50       0x24 ./build/fs/src/ff.o
+                0x0000000000203d50                clust2sect
+
+.text.get_fat   0x0000000000203d74      0x134
+ .text.get_fat  0x0000000000203d74      0x134 ./build/fs/src/ff.o
+                0x0000000000203d74                get_fat
+
+.text.dir_sdi.constprop.0
+                0x0000000000203ea8       0xe0
+ .text.dir_sdi.constprop.0
+                0x0000000000203ea8       0xe0 ./build/fs/src/ff.o
+
+.text.f_mount   0x0000000000203f88       0x3c
+ .text.f_mount  0x0000000000203f88       0x3c ./build/fs/src/ff.o
+                0x0000000000203f88                f_mount
+
+.text.f_open    0x0000000000203fc4      0x910
+ .text.f_open   0x0000000000203fc4      0x910 ./build/fs/src/ff.o
+                0x0000000000203fc4                f_open
+
+.text.f_read    0x00000000002048d4      0x204
+ .text.f_read   0x00000000002048d4      0x204 ./build/fs/src/ff.o
+                0x00000000002048d4                f_read
+
+.text.f_close   0x0000000000204ad8       0x60
+ .text.f_close  0x0000000000204ad8       0x60 ./build/fs/src/ff.o
+                0x0000000000204ad8                f_close
+
+.text.disk_initialize
+                0x0000000000204b38       0x48
+ .text.disk_initialize
+                0x0000000000204b38       0x48 ./build/fs/src/diskio.o
+                0x0000000000204b38                disk_initialize
+
+.text.disk_status
+                0x0000000000204b80       0x1c
+ .text.disk_status
+                0x0000000000204b80       0x1c ./build/fs/src/diskio.o
+                0x0000000000204b80                disk_status
+
+.text.disk_read
+                0x0000000000204b9c       0x60
+ .text.disk_read
+                0x0000000000204b9c       0x60 ./build/fs/src/diskio.o
+                0x0000000000204b9c                disk_read
+
+.text.ff_convert
+                0x0000000000204bfc       0x68
+ .text.ff_convert
+                0x0000000000204bfc       0x68 ./build/fs/src/option/ccsbcs.o
+                0x0000000000204bfc                ff_convert
+
+.text.ff_wtoupper
+                0x0000000000204c64       0x3c
+ .text.ff_wtoupper
+                0x0000000000204c64       0x3c ./build/fs/src/option/ccsbcs.o
+                0x0000000000204c64                ff_wtoupper
+
+.rel.dyn        0x0000000000204ca0        0x0
+ .rel.iplt      0x0000000000204ca0        0x0 ./build/crt0_gnu.o
+                0x0000000000204ca0                . = ALIGN (0x4)
+
+.dummy          0x0000000000204ca0        0x0
+                0x0000000000204ca0                _edummy = .
+
+.data           0x0000000000204ca0       0x15
+                0x0000000000204ca0                _sdata = .
+ *(.vectors)
+ *(.data)
+ .data          0x0000000000204ca0       0x14 ./build/driver/sdhc.o
+ .data          0x0000000000204cb4        0x1 ./build/fs/src/diskio.o
+                0x0000000000204cb5                _edata = .
+
+.igot.plt       0x0000000000204cb8        0x0
+ .igot.plt      0x0000000000204cb8        0x0 ./build/crt0_gnu.o
+
+.bss            0x0000000000204cb8      0x1f8
+                0x0000000000204cb8                . = ALIGN (0x4)
+                0x0000000000204cb8                _sbss = .
+ *(.bss)
+ .bss           0x0000000000204cb8       0x80 ./build/driver/debug.o
+ .bss           0x0000000000204d38       0x24 ./build/driver/common.o
+                0x0000000000204d38                filename
+                0x0000000000204d58                load_image
+ .bss           0x0000000000204d5c        0x4 ./build/driver/at91_pit.o
+ .bss           0x0000000000204d60       0x28 ./build/driver/sdhc.o
+ .bss           0x0000000000204d88       0xdc ./build/driver/mci_media.o
+ .bss           0x0000000000204e64        0x1 ./build/driver/sdcard.o
+ *fill*         0x0000000000204e65        0x3 
+ .bss           0x0000000000204e68       0x48 ./build/fs/src/ff.o
+                0x0000000000204eb0                _ebss = .
+                0x0000000000004cb5                _romsize = (_edata - _stext)
+                0x0000000000004eb0                _sramsize = (_ebss - _stext)
+                0x0000000000204eb0                end = .
+Address of section .text set to 0x200000
+LOAD ./build/crt0_gnu.o
+LOAD ./build/main.o
+LOAD ./build/device/sama5d2/sama5d2.o
+LOAD ./build/lib/string.o
+LOAD ./build/lib/eabi_utils.o
+LOAD ./build/lib/div.o
+LOAD ./build/lib/consttime_memequal.o
+LOAD ./build/driver/debug.o
+LOAD ./build/driver/at91_slowclk.o
+LOAD ./build/driver/common.o
+LOAD ./build/driver/at91_pio.o
+LOAD ./build/driver/pmc/clk-common.o
+LOAD ./build/driver/pmc/periph-clk-sam9x5.o
+LOAD ./build/driver/pmc/generic-clk.o
+LOAD ./build/driver/pmc/utmi-clk.o
+LOAD ./build/driver/pmc/pll-clk.o
+LOAD ./build/driver/pmc/master-clk.o
+LOAD ./build/driver/at91_pit.o
+LOAD ./build/driver/at91_wdt.o
+LOAD ./build/driver/at91_usart.o
+LOAD ./build/driver/at91_rstc.o
+LOAD ./build/driver/shdwc.o
+LOAD ./build/driver/lp310_l2cc.o
+LOAD ./build/driver/ddramc.o
+LOAD ./build/driver/sdhc.o
+LOAD ./build/driver/mci_media.o
+LOAD ./build/driver/sdcard.o
+LOAD ./build/driver/board_hw_init.o
+LOAD ./build/driver/led.o
+LOAD ./build/driver/matrix.o
+LOAD ./build/driver/at91_aicredir.o
+LOAD ./build/driver/at91_flexcom.o
+LOAD ./build/driver/sfrbu.o
+LOAD ./build/driver/at91_xdmac.o
+LOAD ./build/fs/src/ff.o
+LOAD ./build/fs/src/diskio.o
+LOAD ./build/fs/src/option/ccsbcs.o
+OUTPUT(./build/binaries/sama5d2-sdcardboot-uboot-4.0.9-rc1.elf elf32-littlearm)
+LOAD linker stubs
+
+start           0x0000000000000000        0x0
+ start          0x0000000000000000        0x0 ./build/crt0_gnu.o
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ .ARM.attributes
+                0x0000000000000000       0x23 ./build/crt0_gnu.o
+ .ARM.attributes
+                0x0000000000000023       0x31 ./build/main.o
+ .ARM.attributes
+                0x0000000000000054       0x31 ./build/device/sama5d2/sama5d2.o
+ .ARM.attributes
+                0x0000000000000085       0x31 ./build/lib/string.o
+ .ARM.attributes
+                0x00000000000000b6       0x31 ./build/lib/div.o
+ .ARM.attributes
+                0x00000000000000e7       0x31 ./build/driver/debug.o
+ .ARM.attributes
+                0x0000000000000118       0x31 ./build/driver/at91_slowclk.o
+ .ARM.attributes
+                0x0000000000000149       0x31 ./build/driver/common.o
+ .ARM.attributes
+                0x000000000000017a       0x31 ./build/driver/at91_pio.o
+ .ARM.attributes
+                0x00000000000001ab       0x31 ./build/driver/pmc/clk-common.o
+ .ARM.attributes
+                0x00000000000001dc       0x31 ./build/driver/pmc/periph-clk-sam9x5.o
+ .ARM.attributes
+                0x000000000000020d       0x31 ./build/driver/pmc/generic-clk.o
+ .ARM.attributes
+                0x000000000000023e       0x31 ./build/driver/pmc/utmi-clk.o
+ .ARM.attributes
+                0x000000000000026f       0x31 ./build/driver/pmc/pll-clk.o
+ .ARM.attributes
+                0x00000000000002a0       0x31 ./build/driver/pmc/master-clk.o
+ .ARM.attributes
+                0x00000000000002d1       0x31 ./build/driver/at91_pit.o
+ .ARM.attributes
+                0x0000000000000302       0x31 ./build/driver/at91_wdt.o
+ .ARM.attributes
+                0x0000000000000333       0x31 ./build/driver/at91_usart.o
+ .ARM.attributes
+                0x0000000000000364       0x31 ./build/driver/lp310_l2cc.o
+ .ARM.attributes
+                0x0000000000000395       0x31 ./build/driver/ddramc.o
+ .ARM.attributes
+                0x00000000000003c6       0x31 ./build/driver/sdhc.o
+ .ARM.attributes
+                0x00000000000003f7       0x31 ./build/driver/mci_media.o
+ .ARM.attributes
+                0x0000000000000428       0x31 ./build/driver/sdcard.o
+ .ARM.attributes
+                0x0000000000000459       0x31 ./build/driver/board_hw_init.o
+ .ARM.attributes
+                0x000000000000048a       0x31 ./build/driver/led.o
+ .ARM.attributes
+                0x00000000000004bb       0x31 ./build/driver/matrix.o
+ .ARM.attributes
+                0x00000000000004ec       0x31 ./build/driver/at91_aicredir.o
+ .ARM.attributes
+                0x000000000000051d       0x31 ./build/driver/sfrbu.o
+ .ARM.attributes
+                0x000000000000054e       0x31 ./build/fs/src/ff.o
+ .ARM.attributes
+                0x000000000000057f       0x31 ./build/fs/src/diskio.o
+ .ARM.attributes
+                0x00000000000005b0       0x31 ./build/fs/src/option/ccsbcs.o
+
+.comment        0x0000000000000000       0x2b
+ .comment       0x0000000000000000       0x2b ./build/main.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c ./build/device/sama5d2/sama5d2.o
+ .comment       0x000000000000002b       0x2c ./build/lib/string.o
+ .comment       0x000000000000002b       0x2c ./build/lib/div.o
+ .comment       0x000000000000002b       0x2c ./build/driver/debug.o
+ .comment       0x000000000000002b       0x2c ./build/driver/at91_slowclk.o
+ .comment       0x000000000000002b       0x2c ./build/driver/common.o
+ .comment       0x000000000000002b       0x2c ./build/driver/at91_pio.o
+ .comment       0x000000000000002b       0x2c ./build/driver/pmc/clk-common.o
+ .comment       0x000000000000002b       0x2c ./build/driver/pmc/periph-clk-sam9x5.o
+ .comment       0x000000000000002b       0x2c ./build/driver/pmc/generic-clk.o
+ .comment       0x000000000000002b       0x2c ./build/driver/pmc/utmi-clk.o
+ .comment       0x000000000000002b       0x2c ./build/driver/pmc/pll-clk.o
+ .comment       0x000000000000002b       0x2c ./build/driver/pmc/master-clk.o
+ .comment       0x000000000000002b       0x2c ./build/driver/at91_pit.o
+ .comment       0x000000000000002b       0x2c ./build/driver/at91_wdt.o
+ .comment       0x000000000000002b       0x2c ./build/driver/at91_usart.o
+ .comment       0x000000000000002b       0x2c ./build/driver/lp310_l2cc.o
+ .comment       0x000000000000002b       0x2c ./build/driver/ddramc.o
+ .comment       0x000000000000002b       0x2c ./build/driver/sdhc.o
+ .comment       0x000000000000002b       0x2c ./build/driver/mci_media.o
+ .comment       0x000000000000002b       0x2c ./build/driver/sdcard.o
+ .comment       0x000000000000002b       0x2c ./build/driver/board_hw_init.o
+ .comment       0x000000000000002b       0x2c ./build/driver/led.o
+ .comment       0x000000000000002b       0x2c ./build/driver/matrix.o
+ .comment       0x000000000000002b       0x2c ./build/driver/at91_aicredir.o
+ .comment       0x000000000000002b       0x2c ./build/driver/sfrbu.o
+ .comment       0x000000000000002b       0x2c ./build/fs/src/ff.o
+ .comment       0x000000000000002b       0x2c ./build/fs/src/diskio.o
+ .comment       0x000000000000002b       0x2c ./build/fs/src/option/ccsbcs.o
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/main.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/device/sama5d2/sama5d2.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/lib/string.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/lib/div.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/debug.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_slowclk.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/common.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_pio.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/pmc/clk-common.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/pmc/periph-clk-sam9x5.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/pmc/generic-clk.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/pmc/utmi-clk.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/pmc/pll-clk.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/pmc/master-clk.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_pit.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_wdt.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_usart.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/lp310_l2cc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/ddramc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/sdhc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/mci_media.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/sdcard.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/board_hw_init.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/led.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/matrix.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/at91_aicredir.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/driver/sfrbu.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/fs/src/ff.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/fs/src/diskio.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./build/fs/src/option/ccsbcs.o
+
+.debug_line     0x0000000000000000     0x6adf
+ .debug_line    0x0000000000000000       0x98 ./build/crt0_gnu.o
+ .debug_line    0x0000000000000098       0xb9 ./build/main.o
+ .debug_line    0x0000000000000151      0x225 ./build/device/sama5d2/sama5d2.o
+ .debug_line    0x0000000000000376      0x375 ./build/lib/string.o
+ .debug_line    0x00000000000006eb      0x193 ./build/lib/div.o
+ .debug_line    0x000000000000087e      0x45f ./build/driver/debug.o
+ .debug_line    0x0000000000000cdd      0x131 ./build/driver/at91_slowclk.o
+ .debug_line    0x0000000000000e0e      0x147 ./build/driver/common.o
+ .debug_line    0x0000000000000f55      0x64d ./build/driver/at91_pio.o
+ .debug_line    0x00000000000015a2      0x407 ./build/driver/pmc/clk-common.o
+ .debug_line    0x00000000000019a9      0x16f ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_line    0x0000000000001b18      0x27a ./build/driver/pmc/generic-clk.o
+ .debug_line    0x0000000000001d92      0x19e ./build/driver/pmc/utmi-clk.o
+ .debug_line    0x0000000000001f30      0x1af ./build/driver/pmc/pll-clk.o
+ .debug_line    0x00000000000020df      0x32a ./build/driver/pmc/master-clk.o
+ .debug_line    0x0000000000002409      0x2f4 ./build/driver/at91_pit.o
+ .debug_line    0x00000000000026fd       0x71 ./build/driver/at91_wdt.o
+ .debug_line    0x000000000000276e      0x191 ./build/driver/at91_usart.o
+ .debug_line    0x00000000000028ff      0x145 ./build/driver/lp310_l2cc.o
+ .debug_line    0x0000000000002a44      0x50b ./build/driver/ddramc.o
+ .debug_line    0x0000000000002f4f      0xf73 ./build/driver/sdhc.o
+ .debug_line    0x0000000000003ec2     0x13bd ./build/driver/mci_media.o
+ .debug_line    0x000000000000527f      0x1b0 ./build/driver/sdcard.o
+ .debug_line    0x000000000000542f       0xd1 ./build/driver/board_hw_init.o
+ .debug_line    0x0000000000005500       0x64 ./build/driver/led.o
+ .debug_line    0x0000000000005564      0x159 ./build/driver/matrix.o
+ .debug_line    0x00000000000056bd       0x75 ./build/driver/at91_aicredir.o
+ .debug_line    0x0000000000005732       0xb6 ./build/driver/sfrbu.o
+ .debug_line    0x00000000000057e8     0x1095 ./build/fs/src/ff.o
+ .debug_line    0x000000000000687d      0x13e ./build/fs/src/diskio.o
+ .debug_line    0x00000000000069bb      0x124 ./build/fs/src/option/ccsbcs.o
+
+.debug_info     0x0000000000000000     0xbca6
+ .debug_info    0x0000000000000000       0x26 ./build/crt0_gnu.o
+ .debug_info    0x0000000000000026      0x1c2 ./build/main.o
+ .debug_info    0x00000000000001e8      0x7a8 ./build/device/sama5d2/sama5d2.o
+ .debug_info    0x0000000000000990      0x5ff ./build/lib/string.o
+ .debug_info    0x0000000000000f8f      0x290 ./build/lib/div.o
+ .debug_info    0x000000000000121f      0x6f4 ./build/driver/debug.o
+ .debug_info    0x0000000000001913      0x178 ./build/driver/at91_slowclk.o
+ .debug_info    0x0000000000001a8b      0x276 ./build/driver/common.o
+ .debug_info    0x0000000000001d01      0xd90 ./build/driver/at91_pio.o
+ .debug_info    0x0000000000002a91      0x564 ./build/driver/pmc/clk-common.o
+ .debug_info    0x0000000000002ff5      0x261 ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_info    0x0000000000003256      0x448 ./build/driver/pmc/generic-clk.o
+ .debug_info    0x000000000000369e      0x2da ./build/driver/pmc/utmi-clk.o
+ .debug_info    0x0000000000003978      0x333 ./build/driver/pmc/pll-clk.o
+ .debug_info    0x0000000000003cab      0x3e3 ./build/driver/pmc/master-clk.o
+ .debug_info    0x000000000000408e      0x3ac ./build/driver/at91_pit.o
+ .debug_info    0x000000000000443a       0xf6 ./build/driver/at91_wdt.o
+ .debug_info    0x0000000000004530      0x2ec ./build/driver/at91_usart.o
+ .debug_info    0x000000000000481c      0x2ab ./build/driver/lp310_l2cc.o
+ .debug_info    0x0000000000004ac7      0xc91 ./build/driver/ddramc.o
+ .debug_info    0x0000000000005758     0x182f ./build/driver/sdhc.o
+ .debug_info    0x0000000000006f87     0x254c ./build/driver/mci_media.o
+ .debug_info    0x00000000000094d3      0x5f0 ./build/driver/sdcard.o
+ .debug_info    0x0000000000009ac3       0xce ./build/driver/board_hw_init.o
+ .debug_info    0x0000000000009b91       0xa3 ./build/driver/led.o
+ .debug_info    0x0000000000009c34      0x4b9 ./build/driver/matrix.o
+ .debug_info    0x000000000000a0ed       0x58 ./build/driver/at91_aicredir.o
+ .debug_info    0x000000000000a145       0xe8 ./build/driver/sfrbu.o
+ .debug_info    0x000000000000a22d     0x16f8 ./build/fs/src/ff.o
+ .debug_info    0x000000000000b925      0x20b ./build/fs/src/diskio.o
+ .debug_info    0x000000000000bb30      0x176 ./build/fs/src/option/ccsbcs.o
+
+.debug_abbrev   0x0000000000000000     0x30ea
+ .debug_abbrev  0x0000000000000000       0x14 ./build/crt0_gnu.o
+ .debug_abbrev  0x0000000000000014      0x142 ./build/main.o
+ .debug_abbrev  0x0000000000000156      0x251 ./build/device/sama5d2/sama5d2.o
+ .debug_abbrev  0x00000000000003a7      0x14a ./build/lib/string.o
+ .debug_abbrev  0x00000000000004f1      0x134 ./build/lib/div.o
+ .debug_abbrev  0x0000000000000625      0x2b6 ./build/driver/debug.o
+ .debug_abbrev  0x00000000000008db      0x111 ./build/driver/at91_slowclk.o
+ .debug_abbrev  0x00000000000009ec      0x180 ./build/driver/common.o
+ .debug_abbrev  0x0000000000000b6c      0x2d0 ./build/driver/at91_pio.o
+ .debug_abbrev  0x0000000000000e3c      0x1b2 ./build/driver/pmc/clk-common.o
+ .debug_abbrev  0x0000000000000fee      0x133 ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_abbrev  0x0000000000001121      0x213 ./build/driver/pmc/generic-clk.o
+ .debug_abbrev  0x0000000000001334      0x19e ./build/driver/pmc/utmi-clk.o
+ .debug_abbrev  0x00000000000014d2      0x1ed ./build/driver/pmc/pll-clk.o
+ .debug_abbrev  0x00000000000016bf      0x12c ./build/driver/pmc/master-clk.o
+ .debug_abbrev  0x00000000000017eb      0x177 ./build/driver/at91_pit.o
+ .debug_abbrev  0x0000000000001962       0xc9 ./build/driver/at91_wdt.o
+ .debug_abbrev  0x0000000000001a2b      0x194 ./build/driver/at91_usart.o
+ .debug_abbrev  0x0000000000001bbf       0xec ./build/driver/lp310_l2cc.o
+ .debug_abbrev  0x0000000000001cab      0x250 ./build/driver/ddramc.o
+ .debug_abbrev  0x0000000000001efb      0x300 ./build/driver/sdhc.o
+ .debug_abbrev  0x00000000000021fb      0x389 ./build/driver/mci_media.o
+ .debug_abbrev  0x0000000000002584      0x23a ./build/driver/sdcard.o
+ .debug_abbrev  0x00000000000027be       0x9d ./build/driver/board_hw_init.o
+ .debug_abbrev  0x000000000000285b       0x75 ./build/driver/led.o
+ .debug_abbrev  0x00000000000028d0      0x1d7 ./build/driver/matrix.o
+ .debug_abbrev  0x0000000000002aa7       0x4f ./build/driver/at91_aicredir.o
+ .debug_abbrev  0x0000000000002af6       0xdd ./build/driver/sfrbu.o
+ .debug_abbrev  0x0000000000002bd3      0x33f ./build/fs/src/ff.o
+ .debug_abbrev  0x0000000000002f12      0x102 ./build/fs/src/diskio.o
+ .debug_abbrev  0x0000000000003014       0xd6 ./build/fs/src/option/ccsbcs.o
+
+.debug_aranges  0x0000000000000000      0x6b8
+ .debug_aranges
+                0x0000000000000000       0x20 ./build/crt0_gnu.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./build/main.o
+ .debug_aranges
+                0x0000000000000040       0x30 ./build/device/sama5d2/sama5d2.o
+ .debug_aranges
+                0x0000000000000070       0x78 ./build/lib/string.o
+ .debug_aranges
+                0x00000000000000e8       0x30 ./build/lib/div.o
+ .debug_aranges
+                0x0000000000000118       0x40 ./build/driver/debug.o
+ .debug_aranges
+                0x0000000000000158       0x30 ./build/driver/at91_slowclk.o
+ .debug_aranges
+                0x0000000000000188       0x30 ./build/driver/common.o
+ .debug_aranges
+                0x00000000000001b8       0x58 ./build/driver/at91_pio.o
+ .debug_aranges
+                0x0000000000000210       0x50 ./build/driver/pmc/clk-common.o
+ .debug_aranges
+                0x0000000000000260       0x30 ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_aranges
+                0x0000000000000290       0x28 ./build/driver/pmc/generic-clk.o
+ .debug_aranges
+                0x00000000000002b8       0x20 ./build/driver/pmc/utmi-clk.o
+ .debug_aranges
+                0x00000000000002d8       0x30 ./build/driver/pmc/pll-clk.o
+ .debug_aranges
+                0x0000000000000308       0x30 ./build/driver/pmc/master-clk.o
+ .debug_aranges
+                0x0000000000000338       0x40 ./build/driver/at91_pit.o
+ .debug_aranges
+                0x0000000000000378       0x20 ./build/driver/at91_wdt.o
+ .debug_aranges
+                0x0000000000000398       0x38 ./build/driver/at91_usart.o
+ .debug_aranges
+                0x00000000000003d0       0x28 ./build/driver/lp310_l2cc.o
+ .debug_aranges
+                0x00000000000003f8       0x38 ./build/driver/ddramc.o
+ .debug_aranges
+                0x0000000000000430       0x48 ./build/driver/sdhc.o
+ .debug_aranges
+                0x0000000000000478       0x80 ./build/driver/mci_media.o
+ .debug_aranges
+                0x00000000000004f8       0x20 ./build/driver/sdcard.o
+ .debug_aranges
+                0x0000000000000518       0x20 ./build/driver/board_hw_init.o
+ .debug_aranges
+                0x0000000000000538       0x20 ./build/driver/led.o
+ .debug_aranges
+                0x0000000000000558       0x48 ./build/driver/matrix.o
+ .debug_aranges
+                0x00000000000005a0       0x20 ./build/driver/at91_aicredir.o
+ .debug_aranges
+                0x00000000000005c0       0x30 ./build/driver/sfrbu.o
+ .debug_aranges
+                0x00000000000005f0       0x68 ./build/fs/src/ff.o
+ .debug_aranges
+                0x0000000000000658       0x38 ./build/fs/src/diskio.o
+ .debug_aranges
+                0x0000000000000690       0x28 ./build/fs/src/option/ccsbcs.o
+
+.debug_str      0x0000000000000000     0x1cde
+ .debug_str     0x0000000000000000       0x58 ./build/crt0_gnu.o
+ .debug_str     0x0000000000000058      0x1b4 ./build/main.o
+                                        0x225 (size before relaxing)
+ .debug_str     0x000000000000020c      0x434 ./build/device/sama5d2/sama5d2.o
+                                        0x5f9 (size before relaxing)
+ .debug_str     0x0000000000000640       0x65 ./build/lib/string.o
+                                        0x266 (size before relaxing)
+ .debug_str     0x00000000000006a5       0x55 ./build/lib/div.o
+                                        0x1ae (size before relaxing)
+ .debug_str     0x00000000000006fa       0xb4 ./build/driver/debug.o
+                                        0x2be (size before relaxing)
+ .debug_str     0x00000000000007ae       0x97 ./build/driver/at91_slowclk.o
+                                        0x206 (size before relaxing)
+ .debug_str     0x0000000000000845       0x31 ./build/driver/common.o
+                                        0x263 (size before relaxing)
+ .debug_str     0x0000000000000876      0x141 ./build/driver/at91_pio.o
+                                        0x37a (size before relaxing)
+ .debug_str     0x00000000000009b7       0xd8 ./build/driver/pmc/clk-common.o
+                                        0x279 (size before relaxing)
+ .debug_str     0x0000000000000a8f       0x39 ./build/driver/pmc/periph-clk-sam9x5.o
+                                        0x1f4 (size before relaxing)
+ .debug_str     0x0000000000000ac8       0x83 ./build/driver/pmc/generic-clk.o
+                                        0x35d (size before relaxing)
+ .debug_str     0x0000000000000b4b       0x7a ./build/driver/pmc/utmi-clk.o
+                                        0x260 (size before relaxing)
+ .debug_str     0x0000000000000bc5       0x81 ./build/driver/pmc/pll-clk.o
+                                        0x277 (size before relaxing)
+ .debug_str     0x0000000000000c46       0x37 ./build/driver/pmc/master-clk.o
+                                        0x1cd (size before relaxing)
+ .debug_str     0x0000000000000c7d       0x5f ./build/driver/at91_pit.o
+                                        0x21f (size before relaxing)
+ .debug_str     0x0000000000000cdc       0x25 ./build/driver/at91_wdt.o
+                                        0x188 (size before relaxing)
+ .debug_str     0x0000000000000d01       0x41 ./build/driver/at91_usart.o
+                                        0x1c2 (size before relaxing)
+ .debug_str     0x0000000000000d42       0x4e ./build/driver/lp310_l2cc.o
+                                        0x1b0 (size before relaxing)
+ .debug_str     0x0000000000000d90      0x167 ./build/driver/ddramc.o
+                                        0x316 (size before relaxing)
+ .debug_str     0x0000000000000ef7      0x36a ./build/driver/sdhc.o
+                                        0x58c (size before relaxing)
+ .debug_str     0x0000000000001261      0x44d ./build/driver/mci_media.o
+                                        0x87e (size before relaxing)
+ .debug_str     0x00000000000016ae      0x241 ./build/driver/sdcard.o
+                                        0x467 (size before relaxing)
+ .debug_str     0x00000000000018ef       0x21 ./build/driver/board_hw_init.o
+                                        0x1ba (size before relaxing)
+ .debug_str     0x0000000000001910        0xd ./build/driver/led.o
+                                        0x188 (size before relaxing)
+ .debug_str     0x000000000000191d      0x138 ./build/driver/matrix.o
+                                        0x344 (size before relaxing)
+ .debug_str     0x0000000000001a55       0x1d ./build/driver/at91_aicredir.o
+                                        0x17f (size before relaxing)
+ .debug_str     0x0000000000001a72       0x4c ./build/driver/sfrbu.o
+                                        0x1b4 (size before relaxing)
+ .debug_str     0x0000000000001abe      0x1cc ./build/fs/src/ff.o
+                                        0x559 (size before relaxing)
+ .debug_str     0x0000000000001c8a       0x29 ./build/fs/src/diskio.o
+                                        0x25e (size before relaxing)
+ .debug_str     0x0000000000001cb3       0x2b ./build/fs/src/option/ccsbcs.o
+                                        0x1dd (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x8df7
+ .debug_loc     0x0000000000000000       0x23 ./build/main.o
+ .debug_loc     0x0000000000000023      0x12e ./build/device/sama5d2/sama5d2.o
+ .debug_loc     0x0000000000000151      0x8be ./build/lib/string.o
+ .debug_loc     0x0000000000000a0f      0x22d ./build/lib/div.o
+ .debug_loc     0x0000000000000c3c      0x69b ./build/driver/debug.o
+ .debug_loc     0x00000000000012d7       0x3f ./build/driver/at91_slowclk.o
+ .debug_loc     0x0000000000001316       0x61 ./build/driver/common.o
+ .debug_loc     0x0000000000001377      0xc2e ./build/driver/at91_pio.o
+ .debug_loc     0x0000000000001fa5      0x45a ./build/driver/pmc/clk-common.o
+ .debug_loc     0x00000000000023ff      0x1dd ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_loc     0x00000000000025dc      0x3ea ./build/driver/pmc/generic-clk.o
+ .debug_loc     0x00000000000029c6      0x127 ./build/driver/pmc/utmi-clk.o
+ .debug_loc     0x0000000000002aed      0x1e4 ./build/driver/pmc/pll-clk.o
+ .debug_loc     0x0000000000002cd1      0x37e ./build/driver/pmc/master-clk.o
+ .debug_loc     0x000000000000304f      0x21f ./build/driver/at91_pit.o
+ .debug_loc     0x000000000000326e       0x56 ./build/driver/at91_wdt.o
+ .debug_loc     0x00000000000032c4      0x1c6 ./build/driver/at91_usart.o
+ .debug_loc     0x000000000000348a      0x1e4 ./build/driver/lp310_l2cc.o
+ .debug_loc     0x000000000000366e      0x73c ./build/driver/ddramc.o
+ .debug_loc     0x0000000000003daa     0x1305 ./build/driver/sdhc.o
+ .debug_loc     0x00000000000050af     0x1855 ./build/driver/mci_media.o
+ .debug_loc     0x0000000000006904      0x199 ./build/driver/sdcard.o
+ .debug_loc     0x0000000000006a9d       0x4e ./build/driver/board_hw_init.o
+ .debug_loc     0x0000000000006aeb      0x1a0 ./build/driver/matrix.o
+ .debug_loc     0x0000000000006c8b       0x41 ./build/driver/at91_aicredir.o
+ .debug_loc     0x0000000000006ccc       0xb3 ./build/driver/sfrbu.o
+ .debug_loc     0x0000000000006d7f     0x1dcf ./build/fs/src/ff.o
+ .debug_loc     0x0000000000008b4e      0x169 ./build/fs/src/diskio.o
+ .debug_loc     0x0000000000008cb7      0x140 ./build/fs/src/option/ccsbcs.o
+
+.debug_ranges   0x0000000000000000     0x1b10
+ .debug_ranges  0x0000000000000000       0x10 ./build/main.o
+ .debug_ranges  0x0000000000000010       0x60 ./build/device/sama5d2/sama5d2.o
+ .debug_ranges  0x0000000000000070       0x68 ./build/lib/string.o
+ .debug_ranges  0x00000000000000d8       0x38 ./build/lib/div.o
+ .debug_ranges  0x0000000000000110       0x98 ./build/driver/debug.o
+ .debug_ranges  0x00000000000001a8       0x38 ./build/driver/at91_slowclk.o
+ .debug_ranges  0x00000000000001e0       0x20 ./build/driver/common.o
+ .debug_ranges  0x0000000000000200      0x2a8 ./build/driver/at91_pio.o
+ .debug_ranges  0x00000000000004a8       0xe0 ./build/driver/pmc/clk-common.o
+ .debug_ranges  0x0000000000000588       0x88 ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_ranges  0x0000000000000610       0x98 ./build/driver/pmc/generic-clk.o
+ .debug_ranges  0x00000000000006a8       0xa0 ./build/driver/pmc/utmi-clk.o
+ .debug_ranges  0x0000000000000748       0x38 ./build/driver/pmc/pll-clk.o
+ .debug_ranges  0x0000000000000780       0x38 ./build/driver/pmc/master-clk.o
+ .debug_ranges  0x00000000000007b8      0x120 ./build/driver/at91_pit.o
+ .debug_ranges  0x00000000000008d8       0x10 ./build/driver/at91_wdt.o
+ .debug_ranges  0x00000000000008e8       0x88 ./build/driver/at91_usart.o
+ .debug_ranges  0x0000000000000970       0x18 ./build/driver/lp310_l2cc.o
+ .debug_ranges  0x0000000000000988      0x218 ./build/driver/ddramc.o
+ .debug_ranges  0x0000000000000ba0      0x9f0 ./build/driver/sdhc.o
+ .debug_ranges  0x0000000000001590      0x278 ./build/driver/mci_media.o
+ .debug_ranges  0x0000000000001808       0x30 ./build/driver/sdcard.o
+ .debug_ranges  0x0000000000001838       0x10 ./build/driver/board_hw_init.o
+ .debug_ranges  0x0000000000001848       0x10 ./build/driver/led.o
+ .debug_ranges  0x0000000000001858       0x68 ./build/driver/matrix.o
+ .debug_ranges  0x00000000000018c0       0x10 ./build/driver/at91_aicredir.o
+ .debug_ranges  0x00000000000018d0       0x20 ./build/driver/sfrbu.o
+ .debug_ranges  0x00000000000018f0      0x1e0 ./build/fs/src/ff.o
+ .debug_ranges  0x0000000000001ad0       0x28 ./build/fs/src/diskio.o
+ .debug_ranges  0x0000000000001af8       0x18 ./build/fs/src/option/ccsbcs.o
+
+.debug_frame    0x0000000000000000      0xdb4
+ .debug_frame   0x0000000000000000       0x28 ./build/main.o
+ .debug_frame   0x0000000000000028       0x60 ./build/device/sama5d2/sama5d2.o
+ .debug_frame   0x0000000000000088       0xe4 ./build/lib/string.o
+ .debug_frame   0x000000000000016c       0x80 ./build/lib/div.o
+ .debug_frame   0x00000000000001ec       0xec ./build/driver/debug.o
+ .debug_frame   0x00000000000002d8       0x58 ./build/driver/at91_slowclk.o
+ .debug_frame   0x0000000000000330       0x5c ./build/driver/common.o
+ .debug_frame   0x000000000000038c      0x110 ./build/driver/at91_pio.o
+ .debug_frame   0x000000000000049c       0x98 ./build/driver/pmc/clk-common.o
+ .debug_frame   0x0000000000000534       0x40 ./build/driver/pmc/periph-clk-sam9x5.o
+ .debug_frame   0x0000000000000574       0x64 ./build/driver/pmc/generic-clk.o
+ .debug_frame   0x00000000000005d8       0x2c ./build/driver/pmc/utmi-clk.o
+ .debug_frame   0x0000000000000604       0x4c ./build/driver/pmc/pll-clk.o
+ .debug_frame   0x0000000000000650       0x40 ./build/driver/pmc/master-clk.o
+ .debug_frame   0x0000000000000690       0x88 ./build/driver/at91_pit.o
+ .debug_frame   0x0000000000000718       0x20 ./build/driver/at91_wdt.o
+ .debug_frame   0x0000000000000738       0x58 ./build/driver/at91_usart.o
+ .debug_frame   0x0000000000000790       0x30 ./build/driver/lp310_l2cc.o
+ .debug_frame   0x00000000000007c0       0x74 ./build/driver/ddramc.o
+ .debug_frame   0x0000000000000834       0xa8 ./build/driver/sdhc.o
+ .debug_frame   0x00000000000008dc      0x180 ./build/driver/mci_media.o
+ .debug_frame   0x0000000000000a5c       0x3c ./build/driver/sdcard.o
+ .debug_frame   0x0000000000000a98       0x2c ./build/driver/board_hw_init.o
+ .debug_frame   0x0000000000000ac4       0x2c ./build/driver/led.o
+ .debug_frame   0x0000000000000af0       0x78 ./build/driver/matrix.o
+ .debug_frame   0x0000000000000b68       0x20 ./build/driver/at91_aicredir.o
+ .debug_frame   0x0000000000000b88       0x40 ./build/driver/sfrbu.o
+ .debug_frame   0x0000000000000bc8      0x158 ./build/fs/src/ff.o
+ .debug_frame   0x0000000000000d20       0x64 ./build/fs/src/diskio.o
+ .debug_frame   0x0000000000000d84       0x30 ./build/fs/src/option/ccsbcs.o
+
+Cross Reference Table
+
+Symbol                                            File
+__aeabi_unwind_cpp_pr0                            ./build/lib/eabi_utils.o
+__aeabi_unwind_cpp_pr1                            ./build/lib/eabi_utils.o
+_ebss                                             ./build/crt0_gnu.o
+_edata                                            ./build/crt0_gnu.o
+_edummy                                           ./build/crt0_gnu.o
+_romsize                                          ./build/crt0_gnu.o
+_sbss                                             ./build/crt0_gnu.o
+_sdata                                            ./build/crt0_gnu.o
+at91_disable_wdt                                  ./build/driver/at91_wdt.o
+                                                  ./build/device/sama5d2/sama5d2.o
+at91_get_ahb_clock                                ./build/driver/pmc/clk-common.o
+                                                  ./build/driver/pmc/periph-clk-sam9x5.o
+at91_init_can_message_ram                         ./build/device/sama5d2/sama5d2.o
+at91_leds_init                                    ./build/driver/led.o
+                                                  ./build/device/sama5d2/sama5d2.o
+at91_sdhc_hw_init                                 ./build/device/sama5d2/sama5d2.o
+                                                  ./build/driver/sdcard.o
+clust2sect                                        ./build/fs/src/ff.o
+consttime_memequal                                ./build/lib/consttime_memequal.o
+cpu_reset                                         ./build/driver/at91_rstc.o
+dbg_hexdump                                       ./build/driver/debug.o
+dbg_printf                                        ./build/driver/debug.o
+                                                  ./build/driver/sdcard.o
+                                                  ./build/driver/mci_media.o
+                                                  ./build/driver/sdhc.o
+                                                  ./build/driver/pmc/generic-clk.o
+                                                  ./build/device/sama5d2/sama5d2.o
+ddr2_sdram_initialize                             ./build/driver/ddramc.o
+ddram_init                                        ./build/driver/ddramc.o
+                                                  ./build/device/sama5d2/sama5d2.o
+ddramc_dump_regs                                  ./build/driver/ddramc.o
+disable_dcache                                    ./build/crt0_gnu.o
+disable_icache                                    ./build/crt0_gnu.o
+disable_irq                                       ./build/crt0_gnu.o
+disk_initialize                                   ./build/fs/src/diskio.o
+                                                  ./build/fs/src/ff.o
+disk_read                                         ./build/fs/src/diskio.o
+                                                  ./build/fs/src/ff.o
+disk_status                                       ./build/fs/src/diskio.o
+                                                  ./build/fs/src/ff.o
+div                                               ./build/lib/div.o
+                                                  ./build/fs/src/ff.o
+                                                  ./build/driver/sdhc.o
+                                                  ./build/driver/pmc/pll-clk.o
+                                                  ./build/driver/pmc/generic-clk.o
+division                                          ./build/lib/div.o
+                                                  ./build/driver/debug.o
+f_close                                           ./build/fs/src/ff.o
+                                                  ./build/driver/sdcard.o
+f_mount                                           ./build/fs/src/ff.o
+                                                  ./build/driver/sdcard.o
+f_open                                            ./build/fs/src/ff.o
+                                                  ./build/driver/sdcard.o
+f_read                                            ./build/fs/src/ff.o
+                                                  ./build/driver/sdcard.o
+ff_convert                                        ./build/fs/src/option/ccsbcs.o
+                                                  ./build/fs/src/ff.o
+ff_wtoupper                                       ./build/fs/src/option/ccsbcs.o
+                                                  ./build/fs/src/ff.o
+filename                                          ./build/driver/common.o
+flexcom_get_base                                  ./build/driver/at91_flexcom.o
+flexcom_get_regmap                                ./build/driver/at91_flexcom.o
+flexcom_init                                      ./build/driver/at91_flexcom.o
+flexcom_set_mode                                  ./build/driver/at91_flexcom.o
+flexcoms                                          ./build/driver/at91_flexcom.o
+flexcoms_init                                     ./build/driver/at91_flexcom.o
+flush_idcache                                     ./build/crt0_gnu.o
+gen_numname                                       ./build/fs/src/ff.o
+get_cp15                                          ./build/crt0_gnu.o
+get_cpsr                                          ./build/crt0_gnu.o
+get_ddram_size                                    ./build/driver/ddramc.o
+get_fat                                           ./build/fs/src/ff.o
+get_fattime                                       ./build/fs/src/diskio.o
+get_image_load_func                               ./build/driver/common.o
+hw_init                                           ./build/device/sama5d2/sama5d2.o
+                                                  ./build/main.o
+init_load_image                                   ./build/driver/common.o
+                                                  ./build/main.o
+l2cache_enable                                    ./build/driver/lp310_l2cc.o
+l2cache_prepare                                   ./build/driver/lp310_l2cc.o
+                                                  ./build/device/sama5d2/sama5d2.o
+load_image                                        ./build/driver/common.o
+                                                  ./build/main.o
+load_image_done                                   ./build/driver/common.o
+                                                  ./build/main.o
+load_sdcard                                       ./build/driver/sdcard.o
+                                                  ./build/driver/common.o
+lowlevel_clock_init                               ./build/driver/pmc/clk-common.o
+                                                  ./build/crt0_gnu.o
+main                                              ./build/main.o
+                                                  ./build/crt0_gnu.o
+matrix_configure_peri_security                    ./build/driver/matrix.o
+matrix_configure_slave_security                   ./build/driver/matrix.o
+                                                  ./build/device/sama5d2/sama5d2.o
+matrix_read_peripheral_security                   ./build/driver/matrix.o
+matrix_read_slave_security                        ./build/driver/matrix.o
+matrix_write_protect_disable                      ./build/driver/matrix.o
+                                                  ./build/device/sama5d2/sama5d2.o
+matrix_write_protect_enable                       ./build/driver/matrix.o
+mdelay                                            ./build/driver/at91_pit.o
+memchr                                            ./build/lib/string.o
+memcmp                                            ./build/lib/string.o
+memcpy                                            ./build/lib/string.o
+                                                  ./build/driver/mci_media.o
+                                                  ./build/device/sama5d2/sama5d2.o
+memmove                                           ./build/lib/string.o
+memset                                            ./build/lib/string.o
+                                                  ./build/driver/mci_media.o
+                                                  ./build/driver/sdhc.o
+                                                  ./build/driver/common.o
+mod                                               ./build/lib/div.o
+pio_configure                                     ./build/driver/at91_pio.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pio_get_value                                     ./build/driver/at91_pio.o
+pio_set_gpio_input                                ./build/driver/at91_pio.o
+pio_set_gpio_output                               ./build/driver/at91_pio.o
+                                                  ./build/driver/led.o
+pio_set_value                                     ./build/driver/at91_pio.o
+pmc_cfg_pck                                       ./build/driver/pmc/clk-common.o
+pmc_cfg_plla                                      ./build/driver/pmc/pll-clk.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_disable_periph_clock                          ./build/driver/pmc/periph-clk-sam9x5.o
+                                                  ./build/driver/at91_xdmac.o
+                                                  ./build/driver/board_hw_init.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_disable_system_clock                          ./build/driver/pmc/clk-common.o
+pmc_enable_generic_clock                          ./build/driver/pmc/generic-clk.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_enable_periph_clock                           ./build/driver/pmc/periph-clk-sam9x5.o
+                                                  ./build/driver/at91_xdmac.o
+                                                  ./build/driver/board_hw_init.o
+                                                  ./build/driver/ddramc.o
+                                                  ./build/driver/at91_pit.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_enable_system_clock                           ./build/driver/pmc/clk-common.o
+                                                  ./build/driver/ddramc.o
+pmc_get_generic_clock                             ./build/driver/pmc/generic-clk.o
+                                                  ./build/driver/sdhc.o
+pmc_get_pll_freq                                  ./build/driver/pmc/pll-clk.o
+                                                  ./build/driver/pmc/generic-clk.o
+pmc_init_pll                                      ./build/driver/pmc/pll-clk.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_mainck_get_rate                               ./build/driver/pmc/clk-common.o
+                                                  ./build/driver/pmc/pll-clk.o
+pmc_mck_cfg_set                                   ./build/driver/pmc/master-clk.o
+                                                  ./build/driver/pmc/clk-common.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_mck_check_h32mxdiv                            ./build/driver/pmc/master-clk.o
+                                                  ./build/driver/at91_pit.o
+                                                  ./build/driver/pmc/clk-common.o
+                                                  ./build/device/sama5d2/sama5d2.o
+pmc_mck_get_rate                                  ./build/driver/pmc/master-clk.o
+pmc_periph_clock_get_rate                         ./build/driver/pmc/periph-clk-sam9x5.o
+pmc_set_smd_clock_divider                         ./build/driver/pmc/clk-common.o
+pmc_uckr_clk                                      ./build/driver/pmc/utmi-clk.o
+                                                  ./build/driver/pmc/generic-clk.o
+redirect_interrupts_to_nsaic                      ./build/driver/at91_aicredir.o
+                                                  ./build/main.o
+reset                                             ./build/crt0_gnu.o
+rstc_ddr_assert                                   ./build/driver/at91_rstc.o
+rstc_ddr_phy_rst_deassert                         ./build/driver/at91_rstc.o
+rstc_ddr_rst_deassert                             ./build/driver/at91_rstc.o
+rstc_external_reset                               ./build/driver/at91_rstc.o
+sdcard_block_read                                 ./build/driver/mci_media.o
+                                                  ./build/fs/src/diskio.o
+sdcard_initialize                                 ./build/driver/mci_media.o
+                                                  ./build/fs/src/diskio.o
+sdcard_register_sdhc                              ./build/driver/sdhc.o
+                                                  ./build/driver/mci_media.o
+sdmmc_cal_setup                                   ./build/driver/board_hw_init.o
+                                                  ./build/device/sama5d2/sama5d2.o
+set_cp15                                          ./build/crt0_gnu.o
+set_cpsr                                          ./build/crt0_gnu.o
+sfrbu_ddr_is_powered                              ./build/driver/sfrbu.o
+sfrbu_select_ba_power_source                      ./build/driver/sfrbu.o
+                                                  ./build/device/sama5d2/sama5d2.o
+sfrbu_set_ddr_power_mode                          ./build/driver/sfrbu.o
+shdwc_disable_lpm                                 ./build/driver/shdwc.o
+slowclk_enable_osc32                              ./build/driver/at91_slowclk.o
+                                                  ./build/main.o
+slowclk_switch_osc32                              ./build/driver/at91_slowclk.o
+                                                  ./build/main.o
+slowclk_switch_rc32                               ./build/driver/at91_slowclk.o
+start_interval_timer                              ./build/driver/at91_pit.o
+                                                  ./build/driver/at91_slowclk.o
+strcat                                            ./build/lib/string.o
+strchr                                            ./build/lib/string.o
+strcmp                                            ./build/lib/string.o
+strcpy                                            ./build/lib/string.o
+                                                  ./build/driver/common.o
+strlen                                            ./build/lib/string.o
+strncmp                                           ./build/lib/string.o
+strstr                                            ./build/lib/string.o
+timer_init                                        ./build/driver/at91_pit.o
+                                                  ./build/device/sama5d2/sama5d2.o
+udelay                                            ./build/driver/at91_pit.o
+                                                  ./build/driver/mci_media.o
+                                                  ./build/driver/sdhc.o
+                                                  ./build/driver/ddramc.o
+                                                  ./build/driver/pmc/utmi-clk.o
+                                                  ./build/driver/pmc/generic-clk.o
+                                                  ./build/driver/at91_slowclk.o
+usart_base                                        ./build/device/sama5d2/sama5d2.o
+                                                  ./build/driver/at91_usart.o
+usart_getc                                        ./build/driver/at91_usart.o
+usart_init                                        ./build/driver/at91_usart.o
+                                                  ./build/device/sama5d2/sama5d2.o
+usart_puts                                        ./build/driver/at91_usart.o
+                                                  ./build/driver/common.o
+                                                  ./build/driver/debug.o
+                                                  ./build/main.o
+wait_interval_timer                               ./build/driver/at91_pit.o
+                                                  ./build/driver/at91_slowclk.o
+xdmac_configure_transfer                          ./build/driver/at91_xdmac.o
+xdmac_transfer_start                              ./build/driver/at91_xdmac.o
+xdmac_transfer_stop                               ./build/driver/at91_xdmac.o
+xdmac_transfer_wait_for_completion                ./build/driver/at91_xdmac.o
